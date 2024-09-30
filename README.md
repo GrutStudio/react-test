@@ -2,7 +2,7 @@
 
 Hola y bienvenid@ a esta prueba de habilidades, en esta ocasión mediremos tus habilidades utilizando la librería de React para el desarrollo front end de algunas pantallas y conectando con una API pública para la consulta de personajes de Pokémon (nadie aquí es fan, en serio, pero pues es lo que hay).
 
-![](https://www.nintendo.com/eu/media/images/08_content_images/news_5/2016_1/august_10/CI7_PokemonFeatureNews_Pikachu.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/640px-International_Pok%C3%A9mon_logo.svg.png)
 
 Las cosas que estaremos evaluando serán:
 
