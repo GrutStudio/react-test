@@ -8,7 +8,7 @@ Las cosas que estaremos evaluando serán:
 
 - Habilidad usando [React](https://es.reactjs.org/)
 - Modularidad de los componentes
-- Fidelidad al prototipo [(web)](https://invis.io/NAY015XM72P) y [(mobile)](https://invis.io/UYXYLWXXCAB)
+- Fidelidad al prototipo web y [(mobile)]([https://invis.io/UYXYLWXXCAB](https://www.figma.com/design/j03aYYCNww4spDtS9ydXck/Prueba-Front?node-id=0-1&m=dev&t=YzLToSr3l18TyqUA-1))
 - Legibilidad del código
 - Estructura del proyecto
 
